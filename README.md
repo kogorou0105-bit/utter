@@ -31,6 +31,8 @@ The goal is not to memorize random words, but to build a practical expression sy
 | [`00-inbox/raw-thoughts.md`](00-inbox/raw-thoughts.md) | Quickly capture things I did not know how to say |
 | [`01-scenarios/emotional-support/almost-car-accident.md`](01-scenarios/emotional-support/almost-car-accident.md) | Comfort someone after a scary accident-related experience |
 | [`01-scenarios/emotional-support/rejected-by-first-choice-university.md`](01-scenarios/emotional-support/rejected-by-first-choice-university.md) | Comfort someone after university rejection |
+| [`01-scenarios/work-and-study/job-market-in-china.md`](01-scenarios/work-and-study/job-market-in-china.md) | Talk about jobs and development prospects in China |
+| [`01-scenarios/work-and-study/working-overtime-today.md`](01-scenarios/work-and-study/working-overtime-today.md) | Reply naturally when I am busy or working overtime |
 | [`02-phrases/empathy.md`](02-phrases/empathy.md) | Show concern, validate feelings, and offer support |
 | [`02-phrases/asking-follow-up.md`](02-phrases/asking-follow-up.md) | Ask natural follow-up questions |
 | [`03-vocabulary/feelings.md`](03-vocabulary/feelings.md) | Compare common feeling words |
